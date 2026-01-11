@@ -69,6 +69,12 @@ The enclosure is designed in Fusion 360 (personal use).
 
 -------------------------------------------------------------------------------------------------
 
+## Future AI Integration (Planned)
+CTRL is designed to support future AI-assisted workflows via a desktop companion
+application. AI processing will run on the host computer, while CTRL acts as a
+low-latency physical interface for context-aware shortcuts and feedback.
+
+-------------------------------------------------------------------------------------------------
 ## BOM
 The complete bill of materials (BOM), including purchase links, is available in  
 `/hardware/bom.csv`.
