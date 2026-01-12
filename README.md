@@ -5,9 +5,8 @@
 CTRL is a custom-built programmable macropad designed for productivity,
 automation, and future AI-assisted workflows. It features mechanical
 switches, a rotary encoder, and an IPS display, powered by a Raspberry Pi Pico.
-
-  ![0111(2)](https://github.com/user-attachments/assets/c879a765-367e-4b05-86a0-af208b819c26)
-
+<p align="center">
+  <img src=https://github.com/user-attachments/assets/c879a765-367e-4b05-86a0-af208b819c26>
 
 -------------------------------------------------------------------------------------------------
 ## Purpose 
@@ -15,8 +14,10 @@ I wanted to design a fully custom keyboard input device from scratch — includi
 PCB design, firmware, and enclosure — to better understand hardware design
 and embedded systems. This project is also built with future software
 customization & productivity in mind , ensuring optimization of the project
- 
- ![0111(1)](https://github.com/user-attachments/assets/4551a615-e77e-4ec2-b289-c4d70b81c0fa)
+
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/4551a615-e77e-4ec2-b289-c4d70b81c0fa">
+</p>
 
 -------------------------------------------------------------------------------------------------
 ## Features
@@ -35,8 +36,9 @@ customization & productivity in mind , ensuring optimization of the project
 
 All PCB source files are available in `/hardware/kicad`.
 
-
-![0111(3)](https://github.com/user-attachments/assets/b63ff671-658b-4ba5-a15d-6402b3deaaeb)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b63ff671-658b-4ba5-a15d-6402b3deaaeb">
+</p>
 
 -------------------------------------------------------------------------------------------------
 
@@ -59,7 +61,9 @@ Firmware files are located in `/firmware`.
 The enclosure is designed in Fusion 360 (personal use).
 [STEP and source files are included in `/case`.]
 
-![0111](https://github.com/user-attachments/assets/2931899d-0f27-4e3b-9777-3a29c8599f60)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2931899d-0f27-4e3b-9777-3a29c8599f60">
+</p>
 
 -------------------------------------------------------------------------------------------------
 ## Images
