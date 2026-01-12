@@ -59,7 +59,17 @@ Firmware files are located in `/firmware`.
 -------------------------------------------------------------------------------------------------
 ## Case
 The enclosure is designed in Fusion 360 (personal use).
-[STEP and source files are included in `/case`.]
+[STEP and source files are included in `/case`.] The length of the macropad/hackpad is 11.8 cm, 
+and the height is 6.3 cm and it has a thickness of 1.5 cm. 
+The enclosure is designed to be 3D printed.
+
+**Recommended filament:** PLA  
+PLA provides good dimensional accuracy, clean surface finish, and is easy to print, making it ideal for prototyping and desktop devices.
+
+**Alternative:** PETG  
+PETG can be used for improved durability and heat resistance, though it may require tuning for small cutouts.
+
+[The enclosure is intended for indoor use and does not require high-temperature or impact-resistant materials.]
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2931899d-0f27-4e3b-9777-3a29c8599f60">
